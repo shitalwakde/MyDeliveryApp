@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Grocery Delivery Application</string>
+    <string name="address">Plot No 30, Emm garden, Nagpur - 440022</string>
+    <string name="forgot_your_password">Forgot your password? <font color="blue">Recover </font></string>
+    <string name="didn_t_received_otp">Didn\'t received OTP?<font color='blue'> Click Here</font></string>
+</resources>
